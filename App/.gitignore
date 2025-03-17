@@ -5,18 +5,9 @@ __pycache__/
 *.pyd
 *.ipynb_checkpoints/
 
-# Ignore dataset files (optional, unless you want to version them)
 dungeon_performance_data/*.csv
 
-# Ignore generated models and outputs
-models/
-*.joblib
-*.pkl
-*.h5
-outputs/
-*.png
-*.pdf
-*.html
+
 
 # Ignore virtual environments
 venv/
