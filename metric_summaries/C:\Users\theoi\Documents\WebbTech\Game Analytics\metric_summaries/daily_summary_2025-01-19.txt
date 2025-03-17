@@ -1,0 +1,48 @@
+===== Metrics Summary for 09-01 (Patch  5.3.12) =====
+
+
+- **Game Metrics as of 2025-01-19:**
+  - DAUs: 2950
+  - WAUs: 15830
+  - MAUs: 71989
+  - New players daily: 2563
+  - D1: 0.0214
+  - D1_first_session: 0.0051
+  - D7: 0
+  - D7_first_session: 0
+  - Playtime_median_session_length: 676 minutes
+  - Playtime_avg_session_length: 1209.52 minutes
+  - Bounce rate: 44.95%
+
+- **Comparison with 2025-01-12:**
+  - DAUs decreased by 115 (3.75% decrease)
+  - WAUs decreased by 303 (1.88% decrease)
+  - MAUs decreased by 6579 (8.37% decrease)
+  - New players daily decreased by 131 (4.86% decrease)
+  - D1 decreased by 0.0318 (59.85% decrease)
+  - D1_first_session decreased by 0.0242 (82.72% decrease)
+  - D7 decreased by 0.0183
+  - D7_first_session decreased by 0.0048
+  - Playtime_median_session_length increased by 9 minutes
+  - Playtime_avg_session_length data not available
+  - Bounce rate decreased by 3.02%
+
+- **D1 Retention Comparison:**
+  - D1 retention on 2025-01-17:
+    - D1: 0.0588
+    - D1_first_session: 0.0329
+    - Playtime_median_session_length: 654 minutes
+    - Playtime_avg_session_length: 1211.63 minutes
+    - Bounce rate: 44.71%
+  - D1 retention on 2025-01-10:
+    - D1: 0.042
+    - D1_first_session: 0.0186
+    - D7: 0.0183
+    - D7_first_session: 0.0037
+    - Playtime_median_session_length: 622 minutes
+    - Playtime_avg_session_length data not available
+    - Bounce rate: 47.03%
+
+- **Additional Notes:**
+  - Bounce rate is displayed in percentage format
+  - Playtime metrics have been converted to minutes for better readability

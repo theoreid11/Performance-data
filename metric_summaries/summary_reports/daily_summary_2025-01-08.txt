@@ -1,0 +1,16 @@
+===== Metrics Summary =====
+
+- The Daily Active Users (DAUs) have increased from 1,996 to 2,137, showing a 6.97% increase.
+- Weekly Active Users (WAUs) have decreased from 16,937 to 16,514, indicating a 2.50% decrease.
+- Monthly Active Users (MAUs) have increased from 76,008 to 77,854, representing a 2.43% increase.
+- The number of new players daily has increased from 1,759 to 1,895, showing an increase of 7.74%.
+- The Day 1 retention rate (D1) has decreased from 4.67% to 2.63%, indicating a decrease of 43.68%.
+- The Day 1 first session retention rate has decreased from 1.53% to 0.74%, showing a decrease of 51.63%.
+- The Day 7 retention rate (D7) remains unchanged at 0.00%.
+- The Day 7 first session retention rate also remains unchanged at 0.00%.
+- The median session length has increased from 525 seconds to 586 seconds, indicating an 11.62% increase.
+- The average session length has increased from 987.86 seconds to 1,088.36 seconds, showing an increase of 10.16%.
+- The bounce rate has decreased from 51.68% to 49.34%, indicating a decrease of 4.52%.
+
+- Playtime_median_session_length has increased from 525 seconds to 586 seconds, equivalent to 9.77 minutes.
+- Playtime_avg_session_length has increased from 987.86 seconds to 1,088.36 seconds, equivalent to 18.14 minutes.

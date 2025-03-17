@@ -1,0 +1,13 @@
+===== Metrics Summary =====
+
+- Bounce rate decreased by 5.10% in the last 7 days compared to the previous 7 days.
+- D1 retention rate saw a slight decrease of 0.51%.
+- D1 first session rate decreased by 1.56%.
+- D7 retention rate decreased by 0.09%.
+- D7 first session rate decreased by 0.04%.
+- Daily Active Users (DAUs) decreased to 2502.43, a decrease of 12.37%.
+- Monthly Active Users (MAUs) decreased to 71736.43, a decrease of 17.43%.
+- New players daily decreased to 2268.43, a decrease of 12.51%.
+- Average session length increased to 17.78 minutes.
+- Median session length increased to 9.05 minutes.
+- Weekly Active Users (WAUs) decreased to 17392.57, a decrease of 10.86%.

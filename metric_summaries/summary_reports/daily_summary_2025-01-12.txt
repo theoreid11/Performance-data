@@ -1,0 +1,44 @@
+===== Metrics Summary for 09-01 (Patch  5.3.12) =====
+
+- As of January 12, 2025, the game metrics are as follows:
+  - DAUs: 3065
+  - WAUs: 16133
+  - MAUs: 78558
+  - New players daily: 2694
+  - D1 retention rate: 1.8%
+  - D1 first session retention rate: 0.56%
+  - D7 retention rate: 0%
+  - D7 first session retention rate: 0%
+  - Playtime median session length: 674 minutes
+  - Playtime average session length: 20.804421 hours
+  - Bounce rate: 48.81%
+
+- Comparing with the data from the week prior (January 5, 2025):
+  - DAUs: 2796 (9.74% increase)
+  - WAUs: 17832 (9.38% decrease)
+  - MAUs: 72264 (8.64% increase)
+  - New players daily: 2560 (5.08% increase)
+  - D1 retention rate: 1.26% decrease
+  - D1 first session retention rate: 2.44% decrease
+  - D7 retention rate: 1.88% decrease
+  - D7 first session retention rate: 2.22% increase
+  - Playtime median session length: 545 minutes
+  - Playtime average session length: N/A
+  - Bounce rate: 56.60% (13.94% decrease)
+
+- For D1 retention comparison between January 10, 2025, and January 3, 2025:
+  - DAUs: 2412 vs. 2800
+  - WAUs: 15791 vs. 17632
+  - MAUs: 80840 vs. 67231
+  - New players daily: 2152 vs. 2573
+  - D1 retention rate: 4.2% vs. 3.36%
+  - D1 first session retention rate: 1.86% vs. 1.2%
+  - D7 retention rate: 0% vs. 1.68%
+  - D7 first session retention rate: 0% vs. 0.35%
+  - Playtime median session length: 625 minutes vs. 524 minutes
+  - Playtime average session length: 18.149866 hours vs. N/A
+  - Bounce rate: 47.03% vs. 57.13%
+
+- Bounce rate is displayed as a percentage.
+
+- Playtime median session length and Playtime average session length are converted to minutes for easier understanding.

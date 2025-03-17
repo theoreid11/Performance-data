@@ -1,5 +1,0 @@
-{
-    'n_units': [4,8],
-    'dropout_rate': [0.05,0.1,0.15],
-    'regularization': [0.001]
-}

@@ -1,0 +1,25 @@
+===== Metrics Summary for 09/01 (Patch 5.2.9) =====
+
+User Engagement Metrics:
+- DAUs have increased from 2137 to 2249, showing a 5.28% increase.
+- WAUs have decreased from 16514 to 16182, indicating a 1.99% decrease.
+- MAUs have increased from 77854 to 79778, demonstrating a 2.47% increase.
+- New players daily have increased from 1895 to 2007, reflecting a 5.92% increase.
+
+Player Retention Metrics:
+- D1 retention rate has increased from 4.07% to 4.92.%.
+- D1 for new players (first session) retention rate has increased from 1.42% to 1.76%.
+- D7 retention omitted 
+
+Game Session Metrics:
+- Median session length has increased from 585 seconds to 611 seconds, a 4.44% increase.
+- Average session length has increased from 1088.36 seconds to 1164.24 seconds, a 6.98% increase. 
+- Bounce rate (players that quit in first ) has increased from 49.34% to 49.80%, a slight 0.46% increase.
+
+Overall, the data for 2025-01-09 shows an improvement in user engagement with an increase in DAUs and new players daily. 
+Game session metrics have shown an increase in session lengths, indicating a higher level of player engagement. 
+
+Main drop-off points 
+- Between first entry to tutorial tier 1  dungeon and entry tutorial tier 2, followed by entry to tutorial tier 3.
+- Low re-entry rates for players that do not complete the tutorial dungeon first time (24.79% of those who die, 9.32% of those who abandon). This is important because only 32.8%
+of players complete tutorial tier 1 on their first attempt. Of the 68% who fail tutorial dungeon 1 first attempt, only 19% try it again.
